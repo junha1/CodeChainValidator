@@ -20,3 +20,6 @@ Super simple.
 ```
 ccstake delegate --delegatee cccqys0gkwu96zyrkgf94q75ltkk72y0d7t95dwt3p8
 ```
+
+## Node
+TODO
